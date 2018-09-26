@@ -11,10 +11,10 @@ These links should be open prior to presentation:
 - Processing projects: http://157239n.com/proc/
 - Manipulating dimensions: http://157239n.com/dim/
 
-These videos should be preloaded or downloaded if your internet connection don't work:
+These videos should be preloaded or downloaded if your internet connection doesn't work:
 
 - Miegakure trailer: https://www.youtube.com/watch?v=KhbUvoxjxIg
-- How to walk through walls in the 4th dimension from Miegakure: https://www.youtube.com/watch?v=9yW--eQaA2I
+- How to walk through walls in the 4th dimension in Miegakure: https://www.youtube.com/watch?v=9yW--eQaA2I
 
 # Actual presentation script to present
 
