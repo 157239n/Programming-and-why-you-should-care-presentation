@@ -16,7 +16,7 @@ These videos should be preloaded or downloaded if your internet connection doesn
 - Miegakure trailer: https://www.youtube.com/watch?v=KhbUvoxjxIg
 - How to walk through walls in the 4th dimension in Miegakure: https://www.youtube.com/watch?v=9yW--eQaA2I
 
-I currently don't have an executable jar file for the space carving section at the bottom for demonstration purposes, because the original code is written in Processing and I'm having a problem with including .ddl files using gradle when use the video library in isolation. I could isolate and don't depend on the video library, but this is legacy code we're taking. I don't know how to write clean code back then so removing the dependancy will take so much time. If you want the Processing code then visit http://157239n.com/proc/, there should be a space carving section and a link to the code itself.
+I currently don't have an executable jar file for the space carving section at the bottom for demonstration purposes, because the original code is written in Processing and I'm having a problem with including .dll files using gradle when use the video library in isolation. I could isolate and don't depend on the video library, but this is legacy code we're taking. I don't know how to write clean code back then so removing the dependancy will take so much time. If you want the Processing code then visit http://157239n.com/proc/, there should be a space carving section and a link to the code itself.
 
 # Actual presentation script to present
 
